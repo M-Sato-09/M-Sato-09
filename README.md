@@ -1,4 +1,10 @@
-## Hi there 👋
+## こんにちは 👋
+
+> [!TIP]
+> aaa
+
+> [!IMPORTANT]
+> ccc
 
 <!--
 **M-Sato-09/M-Sato-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
